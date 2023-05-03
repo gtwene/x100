@@ -1,0 +1,39 @@
+.counter__form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 1px 16px 0px rgba(112, 112, 112, 0.75);
+  -webkit-box-shadow: 0px 1px 16px 0px rgba(112, 112, 112, 0.75);
+  -moz-box-shadow: 0px 1px 16px 0px rgba(112, 112, 112, 0.75);
+  border-radius: 5px;
+  padding: 20px 0px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.inner__counter {
+  width: 80%;
+  padding: 10px 0;
+  justify-content: space-evenly;
+  display: flex;
+}
+.counter__div {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+/* .counter__divs {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 10px 0px;
+  width: 90%;
+} */
+.first__inner {
+  flex: 0.4;
+}
+.control__space {
+  flex: 0.1;
+}
+.main__flex {
+  flex: 1;
+}
